@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" ml="UnityEditor.XR.MagicLeap" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Label text="Label" display-tooltip-when-elided="true" name="Label1" />
+    <ui:Button text="Button" display-tooltip-when-elided="true" name="button1" />
+    <ui:Label text="Label" display-tooltip-when-elided="true" name="Label2" />
+    <ui:Button text="Button" display-tooltip-when-elided="true" name="button2" />
+</ui:UXML>
